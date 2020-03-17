@@ -1,0 +1,17 @@
+# Bingo!
+========================================================================
+
+## 1.0.0a: March 11, 2020
+
+## Alpha Release
+
+    ### Added:
+    * Bingo core game files and textures
+    * Item: Bingo Card
+    * Command: bingo start
+    * Command: bingo restart
+    * Command: bingo add <player>
+    * Gui: Bingo Card
+    * Gui: Bingo Winners
+    * Config: bingo/bingo.cfg
+    * Config: Menu Mod Options

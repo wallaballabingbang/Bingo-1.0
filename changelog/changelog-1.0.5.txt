@@ -1,0 +1,10 @@
+# Bingo!
+========================================================================
+
+1.0.5b: March ##, 2020
+
+Added:
+* Additional debug and testing functionality
+
+Changed:
+* Mod options menu text was changed

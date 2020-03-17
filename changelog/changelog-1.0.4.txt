@@ -1,0 +1,10 @@
+# Bingo!
+========================================================================
+
+## 1.0.4a: March ##, 2020
+
+### Fixed:
+* A bug in the open card sound was fixed
+
+### Changed:
+* A warning message is displayed in chat if a game is started with less than 24 advancements enabled or loaded

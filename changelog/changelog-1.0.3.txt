@@ -1,0 +1,7 @@
+# Bingo!
+========================================================================
+
+## 1.0.3a: March 12, 2020
+
+### Fixed:
+* A bug in excluding root custom advancements was fixed

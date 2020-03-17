@@ -1,0 +1,10 @@
+# Bingo!
+========================================================================
+
+## 1.0.2a: March 12, 2020
+
+### Fixed:
+* An add bingo card item to inventory bug was fixed in multiplayer
+
+### Added:
+* An open bingo card sound effect was added

@@ -1,0 +1,14 @@
+# Bingo!
+========================================================================
+
+## 1.0.1a: March 11, 2020
+
+### Fixed:
+* An error message is displayed in chat when a game is started with zero advancements loaded.
+
+### Changed:
+* Vanilla minor advancement recipe display text has been updated
+* Advancement description text color have been updated to dark green if the advancement has been completed
+* The restart comman will only give players bingo card items if the game has not been started
+* The Bingo title text color in the Bingo Winners GUI has been changed to dark green
+* Root advancements have been excluded
