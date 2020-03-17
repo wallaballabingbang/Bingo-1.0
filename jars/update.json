@@ -1,0 +1,15 @@
+{
+  "homepage": "https://github.com/wallaballabingbang/Bingo-1.0/blob/master/wiki",
+  "1.12.2": {
+    "1.0.0": "# Bingo!\n## 1.0.0a: March 11, 2020\n## Alpha Release\n\n### Added: (9)\n\nhttps://github.com/wallaballabingbang/Bingo-1.0/blob/master/changelog/changelog-1.0.0.txt", 
+    "1.0.1": "# Bingo!\n## 1.0.1a: March 11, 2020\n### Fixed: (1)\nChanged: (5)\n\nhttps://github.com/wallaballabingbang/Bingo-1.0/blob/master/changelog/changelog-1.0.1.txt", 
+    "1.0.2": "# Bingo!\n## 1.0.2a: March 12, 2020\n### Fixed: (1)\nAdded: (1)\n\nhttps://github.com/wallaballabingbang/Bingo-1.0/blob/master/changelog/changelog-1.0.2.txt", 
+    "1.0.3": "# Bingo!\n## 1.0.3a: March 12, 2020\n### Fixed: (1)\n\nhttps://github.com/wallaballabingbang/Bingo-1.0/blob/master/changelog/changelog-1.0.3.txt", 
+    "1.0.4": "# Bingo!\n## 1.0.4a: March 14, 2020\n### Fixed: (1)\nChanged: (1)\n\nhttps://github.com/wallaballabingbang/Bingo-1.0/blob/master/changelog/changelog-1.0.4.txt", 
+    "1.0.5": "# Bingo!\n## 1.0.5b: March 16, 2020\n## Beta Release\n\n### Added: (1)\nChanged: (1)\n\nhttps://github.com/wallaballabingbang/Bingo-1.0/blob/master/changelog/changelog-1.0.5.txt" 
+  },
+  "promos": {
+    "1.12.2-latest": "1.0.5",
+    "1.12.2-recommended": "1.0.5"
+  }
+}
